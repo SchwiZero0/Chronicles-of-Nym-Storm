@@ -9,7 +9,10 @@ const chapters = [
   { id: 5, title: "Chapter 05 — The Wood of Sharp Teeth", summary: "In Hornhollow, the group meets Olin, who warns of hooded men entering the Sharp Teeth Woods."},
   { id: 6, title: "Chapter 06 — On The Road Again", summary: "The group’s sudden arrival in Baldur’s Gate brings them into contact with Eva and the Zhentarim, who coerce them into collaboration."},
   { id: 7, title: "Chapter 07 — On The Road Again (2)", summary: "The group begins their calm voyage to Waterdeep. Through Sendings, they reach out to their allies, seeking support and evidence against the Cult of the Dragon."},
-
+  { id: 8, title: "Chapter 08 — Construction Ahead", summary: "Accompanied by Timoth, the group travels toward Carnath Roadhouse, facing Lizardfolk soldiers as they prepare for the looming confrontation with the black dragon Voaraghamanthar."},
+  { id: 9, title: "Chapter 09 — Castle Naerytar", summary: "After looting the black dragons’ hoard, the group marches toward Castle Naerytar"},
+  { id: 10, title: "Chapter 10 — Cabin of The Hunter", summary: "After stepping through the portal, the group finds themselves in a cold mountain forest where a secluded cabin stands under the protection of a powerful Mythal."},
+  { id: 11, title: "Chapter 11 — Skyreach's Castle", summary: "The group makes two attempts to reach the flying castle."},
   // Mais serão adicionados aqui
 ];
 
